@@ -1,4 +1,4 @@
-### Computer Engineering student from San Diego, CA
+### Computer Engineering undergrad
 ### 🌱 I’m currently learning Emacs Lisp
 ### 🔭 I’m currently working on a PacMan clone written in VHDL for a Xilinx Spartan-7 XC7S50-CSGA324 FPGA
 
